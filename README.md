@@ -4,8 +4,8 @@ Stream data into pipeline in near-real-time using Kafka
 ## Objective
 The objective of this assignment is to be able to have data in a platform to run streaming data pipeline.
 In this assignment, we learn how to
-  • produce the content of a CSV file to a Kafka topic,
-  • consume messages from a Kafka topic
+  - produce the content of a CSV file to a Kafka topic,
+  - consume messages from a Kafka topic
   
 ## Data set
 The data set is STM GTFS data of Montreal, Canada.
